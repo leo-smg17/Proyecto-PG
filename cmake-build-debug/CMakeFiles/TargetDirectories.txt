@@ -1,0 +1,3 @@
+C:/Users/leomo/Desktop/Project/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir
+C:/Users/leomo/Desktop/Project/Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leomo/Desktop/Project/Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
